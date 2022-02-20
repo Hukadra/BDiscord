@@ -1,6 +1,9 @@
 @import url("https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css");
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 :root {
+--home-icon-image: url('https://marka-logo.com/wp-content/uploads/2020/12/Discord-Logo.png');
+--home-icon-image-zoom: 100%;
+--home-icon-image-position: center;
 --main-theme-color: rgba(0, 255, 64, 0.525);
 --theme-transparency: #000000cc;
 --font-size: 100%;
@@ -8,7 +11,7 @@
 --mention-color: #faa61a0d;
 --mention-sider: #faa61aff;
 --mention-hover-color: #faa61a14;
---category-hover-color: #CA2C0EFF;
+--category-hover-color: rgb(18, 83, 0);
 --video-screen-button-background-color: #c8c8c833;
 --video-screen-button-foreground-color: #ffffffff;
 --video-screen-button-background-hovor-color: #c8c8c866;
